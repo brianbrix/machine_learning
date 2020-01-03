@@ -1,3 +1,4 @@
+This is a machine learning proigram to predict the Success of an advert
 Approach:
 To make this prediction:
 1. Read the training and test files into variables
